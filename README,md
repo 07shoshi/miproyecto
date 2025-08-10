@@ -1,0 +1,18 @@
+# Prototipo de Solución de Software (IV SERIE)
+
+Este proyecto es un prototipo de solución de software diseñado para cumplir con los estándares de calidad requeridos por una organización. Demuestra la implementación de conceptos de Programación Orientada a Objetos (POO) como clases abstractas, interfaces, servicios y repositorios.
+
+El objetivo principal es establecer una base de código que sirva como plantilla, obligando a los programadores a seguir las mejores prácticas y la arquitectura de la empresa.
+
+---
+
+## Tecnologías Utilizadas
+
+* **Lenguaje de Programación:** JavaScript (con Node.js)
+* **Gestor de Paquetes:** npm
+
+---
+
+## 📂 Estructura del Proyecto
+
+La estructura del proyecto sigue el patrón de diseño de **Servicios y Repositorios** para separar la lógica de negocio del acceso a datos.
